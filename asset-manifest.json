@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/babbu/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/babbu/static/js/main.64cb1827.chunk.js",
+    "main.js.map": "/babbu/static/js/main.64cb1827.chunk.js.map",
+    "runtime-main.js": "/babbu/static/js/runtime-main.f696d0ff.js",
+    "runtime-main.js.map": "/babbu/static/js/runtime-main.f696d0ff.js.map",
+    "static/js/2.ff26e4a6.chunk.js": "/babbu/static/js/2.ff26e4a6.chunk.js",
+    "static/js/2.ff26e4a6.chunk.js.map": "/babbu/static/js/2.ff26e4a6.chunk.js.map",
+    "static/js/3.dfa01460.chunk.js": "/babbu/static/js/3.dfa01460.chunk.js",
+    "static/js/3.dfa01460.chunk.js.map": "/babbu/static/js/3.dfa01460.chunk.js.map",
+    "index.html": "/babbu/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/babbu/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ff26e4a6.chunk.js.LICENSE.txt": "/babbu/static/js/2.ff26e4a6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/babbu/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f696d0ff.js",
+    "static/js/2.ff26e4a6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.64cb1827.chunk.js"
+  ]
+}
